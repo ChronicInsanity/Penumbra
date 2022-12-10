@@ -1,52 +1,51 @@
-﻿:: Start
+:: Start
 [[Click here to enter The Void and begin Penumbra|BEGIN]]
 
 
 :: BEGIN
-{BEGIN.mov|1:37}
+{2mjkan2mx8xisdz/BEGIN.mov|1:37}
 [[Look around where you are|hall]]
 [[Look at the curtain|curtain]]
 [[Head deep into the cave|chamber1]]
 
 
 :: hall
-{HALL.mov|2:57}
+{x8vb49usnpge5pz/HALL.mov|2:57}
 [[Look at the curtain|curtainb]]
 [[Head deep into the cave|chamber1b]]
 
 
 :: chamber1b
-{CHAMBER1B.mov|1:57}
+{8j920j3b36eain0/CHAMBER1B.mov|1:57}
 [[Head left|chambercont1]]
 [[Head right|chamber2]]
 
 
 :: curtain
-{CURTAIN.mov|1:58}
+{d2gp71dtyqjk9yx/CURTAIN.mov|1:58}
 [[Look around where you are|hallb]]
 [[Head deep into the cave|chamber1c]]
 
 
 :: curtainb
-{CURTAINB.mov|1:57}
+{8k6fhy10ug5jlau/CURTAINB.mov|1:57}
 [[Head deep into the cave|chamber1c]]
 
 
 :: chamber1
-{CHAMBER1.mov|1:57}
+{ardrdllhjvs00rk/CHAMBER1.mov|1:57}
 [[Head left|chambercont1]]
 [[Head right|chamber2]]
 
 
 :: 2fire4
-{2FIRE.mov|1:12}
+{icy0nf7durtd8zo/2FIRE.mov|1:12}
 [[Ask about noise bleed|1ra24]]
 [[Ask about wifi|3ra24]]
 
 
-
 :: FINAL
-{FINAL.mov|4:04}
+{fblstdc5rqus1qv/FINAL.mov|4:04}
 [[Credits|Credits]]
 
 
@@ -71,35 +70,35 @@ To find out more about us, and out other productions, head to chronicinsanity.co
 
 
 :: hallb
-{HALLB.mov|2:56}
+{ikvbh7276lghhf6/HALLB.mov|2:56}
 [[Head deep into the cave|chamber1b]]
 
 
 :: chamber1c
-{CHAMBER1C.mov|1:57}
+{eafmamj25k0mjyl/CHAMBER1C.mov|1:57}
 [[Head left|chambercont1]]
 [[Head right|chamber2]]
 
 
 :: 1fire4
-{1FIRE.mov|1:12}
+{r9qts37qvx4abgw/1FIRE.mov|1:12}
 [[Ask about power|2ra14]]
 [[Ask about wifi|3ra14]]
 
 
 :: 2fire3
-{2FIRE.mov|1:12}
+{icy0nf7durtd8zo/2FIRE.mov|1:12}
 [[Ask about noise bleed|1ra23]]
 [[Ask about access|4ra23]]
 
 
 :: 1ra23
-{1RA.mov|2:10}
+{2z8sg8pitxbyqsd/1RA.mov|2:10}
 [[Ask about access|4done]]
 
 
 :: chambercont1
-{CHAMBERCONT1.mov|0:27}
+{np5mzu79o4lhrpy/CHAMBERCONT1.mov|0:27}
 [[Ask about noise bleed|1capacity]]
 [[Ask about power|2capacity]]
 [[Ask about wifi|3capacity]]
@@ -107,13 +106,13 @@ To find out more about us, and out other productions, head to chronicinsanity.co
 
 
 :: chamber2
-{CHAMBER2.mov|2:07}
+{s3jjdk9w5p493ds/CHAMBER2.mov|2:07}
 [[Head left|chambercont2]]
 [[Head right|chambercont3]]
 
 
 :: chambercont3
-{CHAMBERCONT3.mov|2:57}
+{z3mcdq2nduclwp6/CHAMBERCONT3.mov|2:57}
 [[Ask about noise bleed|1capacity]]
 [[Ask about power|2capacity]]
 [[Ask about wifi|3capacity]]
@@ -121,25 +120,25 @@ To find out more about us, and out other productions, head to chronicinsanity.co
 
 
 :: 3fire2
-{3FIRE.mov|1:12}
+{viiuc744f4cyp54/3FIRE.mov|1:12}
 [[Ask about noise bleed|1ra23]]
 [[Ask about access|4ra23]]
 
 
 :: 4ra23
-{4RA.mov|2:10}
+{a9oezs5uggm980c/4RA.mov|2:10}
 [[Ask about noise bleed|1done]]
 
 
 :: 4capacity
-{4CAPACITY.mov|1:06}
+{m0gpjckq5x6z9g5/4CAPACITY.mov|1:06}
 [[Ask about noise bleed|1fire4]]
 [[Ask about power|2fire4]]
 [[Ask about wifi|3fire4]]
 
 
 :: chambercont2
-{CHAMBERCONT2.mov|0:27}
+{sck14mo22xvtsib/CHAMBERCONT2.mov|0:27}
 [[Ask about noise bleed|1capacity]]
 [[Ask about power|2capacity]]
 [[Ask about wifi|3capacity]]
@@ -147,396 +146,393 @@ To find out more about us, and out other productions, head to chronicinsanity.co
 
 
 :: 1capacity
-{1CAPACITY.mov|1:06}
+{zkp34jv4gyyks9u/1CAPACITY.mov|1:06}
 [[Ask about power|2fire1]]
 [[Ask about wifi|3fire1]]
 [[Ask about access|4fire1]]
 
 
 :: 3capacity
-{3CAPACITY.mov|1:06}
+{eh8fwn4qxws7cat/3CAPACITY.mov|1:06}
 [[Ask about noise bleed|1fire3]]
 [[Ask about power|2fire3]]
 [[Ask about access|4fire3]]
 
 
 :: 4fire3
-{4FIRE.mov|1:12}
+{z1zwq4pzl82k2ed/4FIRE.mov|1:12}
 [[Ask about noise bleed|1ra34]]
 [[Ask about power|2ra34]]
 
 
 :: 2capacity
-{2CAPACITY.mov|1:06}
+{o1i1ko9fnuq5q1x/2CAPACITY.mov|1:06}
 [[Ask about noise bleed|1fire2]]
 [[Ask about wifi|3fire2]]
 [[Ask about access|4fire2]]
 
 
 :: 1ra24
-{1RA.mov|2:10}
+{2z8sg8pitxbyqsd/1RA.mov|2:10}
 [[Ask about wifi|3done]]
 
 
 :: 3fire1
-{3FIRE.mov|1:12}
+{viiuc744f4cyp54/3FIRE.mov|1:12}
 [[Ask about power|2ra13]]
 [[Ask about access|4ra13]]
 
 
 :: 2fire1
-{2FIRE.mov|1:12}
+{icy0nf7durtd8zo/2FIRE.mov|1:12}
 [[Ask about wifi|3ra12]]
 [[Ask about access|4ra12]]
 
 
 :: 1fire2
-{1FIRE.mov|1:12}
+{r9qts37qvx4abgw/1FIRE.mov|1:12}
 [[Ask about wifi|3ra12]]
 [[Ask about access|4ra12]]
 
 
 :: 4fire1
-{4FIRE.mov|1:12}
+{z1zwq4pzl82k2ed/4FIRE.mov|1:12}
 [[Ask about power|2ra14]]
 [[Ask about wifi|3ra14]]
 
 
 :: 1fire3
-{1FIRE.mov|1:12}
+{r9qts37qvx4abgw/1FIRE.mov|1:12}
 [[Ask about power|2ra13]]
 [[Ask about access|4ra13]]
 
 
 :: 4fire2
-{4FIRE.mov|1:12}
+{z1zwq4pzl82k2ed/4FIRE.mov|1:12}
 [[Ask about noise bleed|1ra24]]
 [[Ask about wifi|3ra24]]
 
 
 :: 2ra13
-{2RA.mov|2:10}
+{hscnwawpwm3zu8o/2RA.mov|2:10}
 [[Ask about access|4done]]
 
 
 :: 3ra24
-{3RA.mov|2:10}
+{kq9pyjlbieguvru/3RA.mov|2:10}
 [[Ask about noise bleed|1done]]
 
 
 :: 4ra12
-{4RA.mov|2:10}
+{a9oezs5uggm980c/4RA.mov|2:10}
 [[Ask about wifi|3done]]
 
 
-
 :: 3ra12
-{3RA.mov|2:10}
+{kq9pyjlbieguvru/3RA.mov|2:10}
 [[Ask about access|4done]]
 
 
 :: 2ra14
-{2RA.mov|2:10}
+{hscnwawpwm3zu8o/2RA.mov|2:10}
 [[Ask about wifi|3done]]
 
 
 :: 3fire4
-{3FIRE.mov|1:12}
+{viiuc744f4cyp54/3FIRE.mov|1:12}
 [[Ask about noise bleed|1ra34]]
 [[Ask about power|2ra34]]
 
 
 :: 3ra14
-{3RA.mov|2:10}
+{kq9pyjlbieguvru/3RA.mov|2:10}
 [[Ask about power|2done]]
 
 
 :: 4ra13
-{4RA.mov|2:10}
+{a9oezs5uggm980c/4RA.mov|2:10}
 [[Ask about power|2done]]
 
 
 :: 1ra34
-{1RA.mov|2:10}
+{2z8sg8pitxbyqsd/1RA.mov|2:10}
 [[Ask about power|2done]]
 
 
-
 :: 2ra34
-{2RA.mov|2:10}
+{hscnwawpwm3zu8o/2RA.mov|2:10}
 [[Ask about noise bleed|1done]]
 
 
 :: 3done
-{3DONE.mov|14:12}
+{4y75fdy8ho2z8n7/3DONE.mov|14:12}
 [[Head into the green/left portal|LG]]
 [[Head into the blue/right portal|LB]]
 
 
-
 :: 4done
-{4DONE.mov|14:12}
+{tj68zz35bq885v6/4DONE.mov|14:12}
 [[Head into the green/left portal|LG]]
 [[Head into the blue/right portal|LB]]
 
 
 :: 2done
-{2DONE.mov|14:12}
+{g79szgcydn06m0k/2DONE.mov|14:12}
 [[Head into the green/left portal|LG]]
 [[Head into the blue/right portal|LB]]
 
 
 :: 1done
-{1DONE.mov|14:12}
+{4qc7lg21lf7w36a/1DONE.mov|14:12}
 [[Head into the green/left portal|LG]]
 [[Head into the blue/right portal|LB]]
 
 
 :: LB
-{LB.mov|1:34}
+{erswn8hbncdavs3/LB.mov|1:34}
 [[Head left|LBalcoves]]
 [[Head right|LBchamber]]
 
 
 :: LG
-{LG.mov|1:37}
+{m0htrfq204n7vga/LG.mov|1:37}
 [[Head left|LGalcoves]]
 [[Head right|LGchamber]]
 
 
 :: LBalcoves
-{LBALCOVES.mov|1:05}
+{5wx4z7eyq2rhz40/LBALCOVES.mov|1:05}
 [[Head left|LBleft1]]
 [[Head right|LBright1]]
 
 
 :: LBchamber
-{LBCHAMBER.mov|0:32}
+{rseie5ip7htyff5/LBCHAMBER.mov|0:32}
 [[Head left|LBleft1]]
 [[Head right|LBright1]]
 
 
 :: LGchamber
-{LGCHAMBER.mov|0:32}
+{ltfatpotplxjhaw/LGCHAMBER.mov|0:32}
 [[Head left|LGleft1]]
 [[Head right|LGright1]]
 
 
 :: LGalcoves
-{LGALCOVES.mov|1:05}
+{rb8blwjtrm9qk6w/LGALCOVES.mov|1:05}
 [[Head left|LGleft1]]
 [[Head right|LGright1]]
 
 
 :: LBleft1
-{LBLEFT1.mov|2:57}
+{yvscu8b3s2icq3b/LBLEFT1.mov|2:57}
 [[Head left|LBleft2]]
 [[Head right|LBright2]]
 
 
 :: LBright1
-{LBRIGHT1.mov|2:28}
+{aje2cvcv9rl2tto/LBRIGHT1.mov|2:28}
 [[Head left|LBleft2]]
 [[Head right|LBright2]]
 
 
 :: LGleft1
-{LGLEFT1.mov|2:57}
+{t2671x2c6fm9lpm/LGLEFT1.mov|2:57}
 [[Head left|LGleft2]]
 [[Head right|LGright2]]
 
 
 :: LGright1
-{LGRIGHT1.mov|2:28}
+{49oqsa64tlpupej/LGRIGHT1.mov|2:28}
 [[Head left|LGleft2]]
 [[Head right|LGright2]]
 
 
 :: LBleft2
-{LBLEFT2.mov|0:16}
+{500d138glgfbd2y/LBLEFT2.mov|0:16}
 [[Look left|LBleft3]]
 [[Look right|LBright3]]
 
 
 :: LBright2
-{LBRIGHT2.mov|0:38}
+{9ubx733vph85osk/LBRIGHT2.mov|0:38}
 [[Look left|LBleft3]]
 [[Look right|LBright3]]
 
 
 :: LGleft2
-{LGLEFT2.mov|0:16}
+{oh4wi55r513hdbf/LGLEFT2.mov|0:16}
 [[Look left|LGleft3]]
 [[Look right|LGright3]]
 
 
 :: LGright2
-{LGRIGHT2.mov|0:38}
+{pcsbxk2vord9jai/LGRIGHT2.mov|0:38}
 [[Look left|LGleft3]]
 [[Look right|LGright3]]
 
 
 :: LBright3
-{LGRIGHT3.mov|5:57}
+{sn96tz7h931xwdw/LBRIGHT3.mov|5:57}
 [[Can I meet myself?|Q11a]]
 [[Can I leave a message?|Q21a]]
 [[Can I get my original key back?|Q31a]]
 
 
 :: LBleft3
-{LGLEFT3.mov|5:57}
+{qyj718o3lpqjb6z/LBLEFT3.mov|5:57}
 [[Can I meet myself?|Q11a]]
 [[Can I leave a message?|Q21a]]
 [[Can I get my original key back?|Q31a]]
 
 
 :: LGleft3
-{LGLEFT3.mov|5:57}
+{0yqvzeb04ht4ydk/LGLEFT3.mov|5:57}
 [[Can I meet myself?|Q11]]
 [[Can I leave a message?|Q21]]
 [[Can I get my original key back?|Q31]]
 
 
 :: LGright3
-{LGRIGHT3.mov|5:57}
+{4z7kl3s06duj65r/LGRIGHT3.mov|5:57}
 [[Can I meet myself?|Q11]]
 [[Can I leave a message?|Q21]]
 [[Can I get my original key back?|Q31]]
 
 
 :: Q22a
-{Q22.mov|0:50}
+{yk80d2b8o6xs2fm/Q22.mov|0:50}
 [[Can I get my original key back?|Q33a]]
 
 
 :: Q11a
-{Q11.mov|0:44}
+{vuz4d46wmy0tvbm/Q11.mov|0:44}
 [[Can I leave a message?|Q22a]]
 [[Can I get my original key back?|Q32a]]
 
 
 :: Q21a
-{Q21.mov|0:50}
+{54v852ug1r663l5/Q21.mov|0:50}
 [[Can I meet myself?|Q12a]]
 [[Can I get my original key back?|Q32ba]]
 
 
 :: Q31a
-{Q31.mov|0:54}
+{of5wld64f383xp2/Q31.mov|0:54}
 [[Can I meet myself?|Q22ba]]
 [[Can I leave a message?|Q12ba]]
 
 
 :: Q21
-{Q21.mov|0:50}
+{54v852ug1r663l5/Q21.mov|0:50}
 [[Can I meet myself?|Q12]]
 [[Can I get my original key back?|Q32b]]
 
 
 :: Q22ba
-{Q22B.mov|0:50}
+{hflubfqrqjatahx/Q22B.mov|0:50}
 [[Can I meet myself?|Q13]]
 
 
 :: Q11
-{Q11.mov|0:44}
+{vuz4d46wmy0tvbm/Q11.mov|0:44}
 [[Can I leave a message?|Q22]]
 [[Can I get my original key back?|Q32]]
 
 
 :: Q31
-{Q31.mov|0:54}
+{of5wld64f383xp2/Q31.mov|0:54}
 [[Can I meet myself?|Q22b]]
 [[Can I leave a message?|Q12b]]
 
 
 :: Q32ba
-{Q32B.mov|0:54}
+{z2szwea2fukp0pk/Q32B.mov|0:54}
 [[Can I meet myself?|Q13a]]
 
 
 :: Q12a
-{Q12.mov|0:44}
+{ji9b9z1ijaw8h01/Q12.mov|0:44}
 [[Can I get my original key back?|Q33a]]
 
 
 :: Q12b
-{Q12B.mov|0:44}
+{jyttgdecg1bs2es/Q12B.mov|0:44}
 [[Can I leave a message?|Q23]]
 
 
 :: Q32a
-{Q32.mov|0:54}
+{148o8tqvvmy40pq/Q32.mov|0:54}
 [[Can I leave a message?|Q23a]]
 
 
 :: Q12ba
-{Q12B.mov|0:44}
+{jyttgdecg1bs2es/Q12B.mov|0:44}
 [[Can I leave a message?|Q23a]]
 
 
 :: Q32
-{Q32.mov|0:54}
+{148o8tqvvmy40pq/Q32.mov|0:54}
 [[Can I leave a message?|Q23]]
 
 
 :: Q32b
-{Q32B.mov|0:54}
+{z2szwea2fukp0pk/Q32B.mov|0:54}
 [[Can I meet myself?|Q13]]
 
 
 :: Q22
-{Q22.mov|0:50}
+{yk80d2b8o6xs2fm/Q22.mov|0:50}
 [[Can I get my original key back?|Q33]]
 
 
 :: Q12
-{Q12.mov|0:44}
+{ji9b9z1ijaw8h01/Q12.mov|0:44}
 [[Can I get my original key back?|Q33]]
 
 
 :: Q22b
-{Q22B.mov|0:50}
+{hflubfqrqjatahx/Q22B.mov|0:50}
 [[Can I meet myself?|Q13]]
 
 
 :: Q33a
-{Q33.mov|0:54}
+{8gah765nq27qpzr/Q33.mov|0:54}
 [[I know what to do|IKWTDLB]]
 
 
 :: Q23a
-{Q23.mov|0:50}
+{aoitscajclajlg0/Q23.mov|0:50}
 [[I know what to do|IKWTDLB]]
 
 
 :: Q13a
-{Q13.mov|0:44}
+{htg5ub3h5ozg0ko/Q13.mov|0:44}
 [[I know what to do|IKWTDLB]]
 
 
 :: Q23
-{Q23.mov|0:50}
+{aoitscajclajlg0/Q23.mov|0:50}
 [[I know what to do|IKWTDLG]]
 
 
 :: Q13
-{Q13.mov|0:44}
+{htg5ub3h5ozg0ko/Q13.mov|0:44}
 [[I know what to do|IKWTDLG]]
 
 
 :: Q33
-{Q33.mov|0:54}
+{8gah765nq27qpzr/Q33.mov|0:54}
 [[I know what to do|IKWTDLG]]
 
 
 :: IKWTDLB
-{IKWTDLB.mov|16:30}
+{6e3slk6i7p19487/IKWTDLB.mov|16:30}
 [[Offer him a free ticket|FINAL]]
 
 
 :: IKWTDLG
-{IKWTDLG.mov|16:30}
+{fxs7e0n2lp25z3f/IKWTDLG.mov|16:30}
 [[Offer him a free ticket|FINAL]]
 
 
