@@ -1,6 +1,6 @@
 
 // SETTINGS ////////////////////////////////////////////////////////
-var FILE = "DREAM.tw";
+var FILE = "Penumbra.tw";
 var VIDEO_PATH = "/videos/";
 
 //once you reach the end of the clip select the first choice (true)
